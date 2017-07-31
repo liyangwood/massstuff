@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"readmission.organizations"},{"v":2,"key":{"companyId":1},"name":"companyId_1","ns":"readmission.organizations","background":true},{"v":2,"key":{"parentId":1},"name":"parentId_1","background":true,"ns":"readmission.organizations"}]}
